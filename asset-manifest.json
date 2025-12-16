@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/traffic-system/static/css/main.e6c13ad2.css",
+    "main.js": "/traffic-system/static/js/main.d79478c0.js",
+    "static/js/453.202f01c0.chunk.js": "/traffic-system/static/js/453.202f01c0.chunk.js",
+    "static/media/logo.png": "/traffic-system/static/media/logo.0a084cde19fa44b79a16.png",
+    "index.html": "/traffic-system/index.html",
+    "main.e6c13ad2.css.map": "/traffic-system/static/css/main.e6c13ad2.css.map",
+    "main.d79478c0.js.map": "/traffic-system/static/js/main.d79478c0.js.map",
+    "453.202f01c0.chunk.js.map": "/traffic-system/static/js/453.202f01c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d79478c0.js"
+  ]
+}
